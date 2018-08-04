@@ -10,6 +10,7 @@ namespace ApplicationOnGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
