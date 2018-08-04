@@ -1,0 +1,6 @@
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\bin\Debug\ApplicationOnGit.exe.config
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\bin\Debug\ApplicationOnGit.exe
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\bin\Debug\ApplicationOnGit.pdb
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\obj\Debug\ApplicationOnGit.csprojResolveAssemblyReference.cache
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\obj\Debug\ApplicationOnGit.exe
+C:\Users\slk.WSLK1FFTRFW-07.010\Source\Repos\develop_repo\ApplicationOnGit\ApplicationOnGit\obj\Debug\ApplicationOnGit.pdb
