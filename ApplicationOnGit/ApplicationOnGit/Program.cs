@@ -12,6 +12,7 @@ namespace ApplicationOnGit
         {
 
             Console.WriteLine("Hello - World: This is the end of the world");
+            Console.WriteLine("Hello - World: This is the end of the world");
             Console.ReadLine();
         }
     }
